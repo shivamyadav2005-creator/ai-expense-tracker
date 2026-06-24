@@ -1,0 +1,7 @@
+transaction,amount,category,date
+pizza 300,300,food,2026-05-21
+netflix 400,400,entertainment,2026-05-22
+clothes 800,800,shopping,2026-05-07
+clothes 1800,1800,shopping,2026-05-22
+pizza 200,200,food,2026-05-21
+netflix 400,400,entertainment,2026-05-07
